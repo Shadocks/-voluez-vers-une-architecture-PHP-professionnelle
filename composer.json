@@ -1,7 +1,8 @@
 {
   "require": {
     "silex/silex": "~2.0",
-    "doctrine/dbal": "v2.5.12"
+    "doctrine/dbal": "v2.5.12",
+    "twig/twig": "~1.28"
   },
   "autoload": {
     "psr-4": {"MicroCMS\\": "src"}
